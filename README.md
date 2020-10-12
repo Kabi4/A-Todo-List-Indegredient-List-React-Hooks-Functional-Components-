@@ -1,5 +1,5 @@
 # `APP-LIVE`
-`[Demo Live]`(https://todo-list-app-hooks.web.app/)
+[Demo Live](https://todo-list-app-hooks.web.app/)
 
 # `BUILD DETAILS`
 
