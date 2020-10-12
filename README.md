@@ -1,5 +1,7 @@
 # `APP-LIVE`
-[Demo Live](https://todo-list-app-hooks.web.app/)  
+`[Demo Live](https://todo-list-app-hooks.web.app/)`
+
+# `BUILD DETAILS`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
